@@ -1,8 +1,9 @@
-name: "Actual Budget Stable"
+name: "Actual Budget hdsheena"
 description: "Run the latest stable version of Actual Budget."
 url: "https://actualbudget.org"
 slug: "actualbudget"
 init: false
+ingress: true
 arch:
   - aarch64
   - amd64
