@@ -16,4 +16,4 @@ boot: auto
 ports:
   5007/tcp: 5007
 image: ghcr.io/actualbudget/actual-server
-version: 24.4.0-alpine
+version: 26.7.0-alpine
